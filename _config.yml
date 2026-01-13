@@ -1,0 +1,20 @@
+# Site
+title: Your Blog Title
+subtitle: ''
+description: ''
+author: Felix Tang
+language: en
+timezone: ''
+
+# URL
+url: https://felixytang.github.io
+root: /
+
+# Theme
+theme: Chic
+
+# Deployment
+deploy:
+  type: git
+  repo: https://github.com/felixytang/felixytang.github.io.git
+  branch: master
