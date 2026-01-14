@@ -16,5 +16,5 @@ theme: Chic
 # Deployment
 deploy:
   type: git
-  repo: https://github.com/felixytang/felixytang.github.io.git
+  repo: git@github.com:felixytang/felixytang.github.io.git
   branch: master
